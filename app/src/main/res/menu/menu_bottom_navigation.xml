@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listRandomFragment"
+        android:title=".Lista random"
+        android:icon="@drawable/ic_list_random"/>
+
+    <item
+        android:id="@+id/listGlobalFragment"
+        android:title=".Lista global"
+        android:icon="@drawable/ic_list_global"/>
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:title=".Configuración"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>
